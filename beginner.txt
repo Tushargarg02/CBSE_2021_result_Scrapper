@@ -1,0 +1,10 @@
+Steps-
+1. Install python using microsoft store or download from python official website.
+2. download git python (not compulsary but is extremely simple with this) 'https://git-scm.com/downloads' (might require a youtube video to ease installation)
+3. open git bash 
+4. use command 'git clone https://github.com/Tushargarg02/CBSE_2021_result_Scrapper.git' 
+5. use command 'cd ./CBSE_2021_result_Scrapper'
+6. use command 'pip3 install requests BeautifulSoup4'
+7. use command 'python3 marks12th.py 26630000' (replace the roll no.)
+8. change school code range in the script as per the area of school
+9. for class 10th, you must either know the dob or school no. and bruteforce the other one. Hence, change the script and ranges on txt files as needed.
