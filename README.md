@@ -4,4 +4,4 @@ This script is solely for educational purposes. Bruteforce on any website withou
 Please use this python script as per your discretion.
 I have made changes for year 2020-21 to the original code of 'shero4/cbse-result-lie-detector'.
 
-Beginners unfamiliar with python must open beginner.txt to directly use the script
+Beginners unfamiliar with python must open 'beginner.txt' to directly use the script
